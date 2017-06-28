@@ -1,0 +1,1 @@
+<?php header('location: View/Cliente/index.php') ?>
